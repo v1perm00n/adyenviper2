@@ -1,4 +1,4 @@
-module github.com/v1perm00n/adyenviper
+module github.com/v1perm00n/adyenviper2
 
 go 1.13
 
